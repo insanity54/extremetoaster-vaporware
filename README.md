@@ -1,5 +1,7 @@
 # extremetoaster-vaporware
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/extremetoaster-vaporware.svg)](https://greenkeeper.io/)
+
 > Oh remember that site on which we studied learning tools during school?
 
 > No.
